@@ -1,3 +1,7 @@
+* {
+  overflow: hidden;
+}
+
 body {
   text-align: center;
   background-color: #283149;
